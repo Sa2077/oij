@@ -1,0 +1,2 @@
+warp://[2606:4700:d0::2f71:dc5a:e137:506a]:8742?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.182:854?ifp=10-20&ifps=20-60&ifp=5-10#Germany
+warp://162.159.195.42:3854?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://188.114.98.123:968?ifp=10-20&ifps=20-60&ifp=5-10#Germany
